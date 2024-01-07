@@ -4,6 +4,7 @@ Welcome to Cogni Quiz, a web-based quiz application designed to challenge and en
 
 ## Table of Contents
 
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,8 +12,8 @@ Welcome to Cogni Quiz, a web-based quiz application designed to challenge and en
 - [License](#license)
 
 ## Screenshots
-![light_mode_ui](./images/light_mode_ui.jpg)
-![dark_mode_ui](./images/light_mode_ui.jpg)
+- ![light_mode_ui](./images/light_mode_ui.png)
+- ![dark_mode_ui](./images/light_mode_ui.png)
 
 ## Features
 
