@@ -10,6 +10,10 @@ Welcome to Cogni Quiz, a web-based quiz application designed to challenge and en
 - [Contributing](#contributing)
 - [License](#license)
 
+## Screenshots
+![light_mode_ui](./images/light_mode_ui.jpg)
+![dark_mode_ui](./images/light_mode_ui.jpg)
+
 ## Features
 
 - **Interactive Quiz:** Engage in an interactive quiz with 80 handcrafted questions covering diverse topics.
@@ -45,5 +49,3 @@ Contributions are welcome! If you have ideas for improvements, new features, or 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
